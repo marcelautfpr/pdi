@@ -60,3 +60,6 @@ HEADERS  += mainwindow.h \
     matrizconfusaosvm.h
 
 FORMS    += mainwindow.ui
+
+DISTFILES += \
+    QmlTeste.qml
